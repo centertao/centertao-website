@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=http://forumarchive.centertao.org/discussion/(.*)">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "http://forumarchive.centertao.org/discussion/(.*)";
+		</script>
+
+		<p>You are being redirected to <a href="http://forumarchive.centertao.org/discussion/(.*)">http://forumarchive.centertao.org/discussion/(.*)</a></p>
+	</body>
+</html>
