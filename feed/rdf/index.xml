@@ -10,7 +10,7 @@
 	<title>CenterTao.org</title>
 	<link>/</link>
 	<description>taoism, taoist thought, buddha, yoga, tai chi, shakuhachi</description>
-	<dc:date>2026-01-31T03:03:18Z	</dc:date>
+	<dc:date>2026-02-10T20:14:42Z	</dc:date>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,6 +19,7 @@
 	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.7.2" />
 	<items>
 		<rdf:Seq>
+					<rdf:li rdf:resource="/2026/02/10/ai-critiques-the-correlation-process/"/>
 					<rdf:li rdf:resource="/2026/01/30/monthly-chapter-31-trump-era/"/>
 					<rdf:li rdf:resource="/2026/01/01/monthly-chapter-30-trump-era/"/>
 					<rdf:li rdf:resource="/2025/12/06/monthly-chapter-29-trump-era/"/>
@@ -48,10 +49,25 @@
 					<rdf:li rdf:resource="/2024/12/19/a-final-word-on-consciousness/"/>
 					<rdf:li rdf:resource="/2024/12/18/a-final-word-on-civilization/"/>
 					<rdf:li rdf:resource="/2024/12/18/a-final-word-on-free-will/"/>
-					<rdf:li rdf:resource="/2024/11/29/a-final-word-on-expectations/"/>
 				</rdf:Seq>
 	</items>
 </channel>
+<item rdf:about="/2026/02/10/ai-critiques-the-correlation-process/">
+	<title>Protected: AI Critiques the Correlation Process</title>
+	<link>/2026/02/10/ai-critiques-the-correlation-process/</link>
+
+	<dc:creator><![CDATA[Carl Abbott]]></dc:creator>
+	<dc:date>2026-02-10T20:11:31Z</dc:date>
+			<dc:subject><![CDATA[AI's Devil's Advocacy]]></dc:subject>
+
+			<description><![CDATA[There is no excerpt because this is a protected post.]]></description>
+		<content:encoded><![CDATA[<form action="/wp-login.php?action=postpass" class="post-password-form" method="post">
+<p>This content is password protected. To view it please enter your password below:</p>
+<p><label for="pwbox-38061">Password: <input name="post_password" id="pwbox-38061" type="password" spellcheck="false" size="20" /></label> <input type="submit" name="Submit" value="Enter" /></p>
+</form>
+]]></content:encoded>
+	
+	</item>
 <item rdf:about="/2026/01/30/monthly-chapter-31-trump-era/">
 	<title>Monthly Chapter 31 (Trump era)</title>
 	<link>/2026/01/30/monthly-chapter-31-trump-era/</link>
@@ -1688,23 +1704,6 @@ The way therefore long enduring, nearly rising beyond oneself.   </a></p>
 <p>TD learning is effective as it merges information on the benefit–cost ratio from diverse facets of life. This avoids the extreme difficulty of thinking through myriad variables and unknowns. This innate ability to quickly deliver better guesses often makes the difference between life and death in the wild. The circumstances of civilization probably make this innate ability problematic at times.</p>
 <p><strong>“So what?”, we may wonder.</strong></p>
 <p>Virtually all harm we see in the world arises from feeling other people have free will, i.e., they are responsible for their actions. We blame ‘them’ and react, setting in motion an often-snowballing series of actions and reactions. Fully realizing that no one has free will enables one to be a more peaceful actor in the world. Why? Knowing that no one has any fundamental choice in life fosters a deep and universal sense of forgiveness… if that is the right word for it. In other words, sincerely blaming anyone for anything becomes impossible. As a result, there can be no flame of blame to spark a reaction.</p>
-<p>&nbsp;</p>
-]]></content:encoded>
-	
-	</item>
-<item rdf:about="/2024/11/29/a-final-word-on-expectations/">
-	<title>A final word on expectations</title>
-	<link>/2024/11/29/a-final-word-on-expectations/</link>
-
-	<dc:creator><![CDATA[Carl Abbott]]></dc:creator>
-	<dc:date>2024-11-29T22:06:18Z</dc:date>
-			<dc:subject><![CDATA[Wrapping up]]></dc:subject>
-
-			<description><![CDATA[The will to survive incorporates a kind of natural sense of expectation or anticipation… a time-sensitive need.  Although, a better word for this impulse may be survival ‘keenness’. It drives all living things to go forth, to hunt and gather. In a sense, this causes sorrow for all living things. (See Buddha’s Truths Pertain To [&#8230;]]]></description>
-		<content:encoded><![CDATA[<p>The will to survive incorporates a kind of natural sense of expectation or anticipation… a time-sensitive need.  Although, a better word for this impulse may be survival ‘keenness’. It drives <em>all</em> living things to go forth, to hunt and gather. In a sense, this causes sorrow for <u>all</u> living things. (See <a href="/2016/05/30/truth-pertains-to-all-life/">Buddha’s Truths Pertain To All Life</a>, p.545).</p>
-<p>Human thought magnifies this natural impulse and adds to the sorrow we experience. Thought enables us to dwell on expectations concerning both our hopes for the future and our regrets of the past.</p>
-<p>Chapter 71 puts forth the only way I see to ameliorate this issue… <a href="/tao-te-ching/carl/chapter-71/">Realizing I don’t know is better; not knowing this knowing is disease</a>. Alas, faithfully believing that we know what we know is irresistible.</p>
-<p>Thus, to actually treat this disease requires <u>first</u> identifying the thinking side of survival ‘keenness’ and <u>then</u> downplaying its role in your life as best you can. Simply put, Realizing I don’t know works.</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
 	
