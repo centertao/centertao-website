@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>taoism, taoist thought, buddha, yoga, tai chi, shakuhachi</description>
-	<lastBuildDate>Sat, 18 Apr 2026 01:40:26 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 18 Apr 2026 06:24:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,8 +28,9 @@
 				<category><![CDATA[Occam's razor]]></category>
 		<guid isPermaLink="false">/?p=38210</guid>
 
-					<description><![CDATA[This is a back and forth coversation with AI to see what AI really knows. Can it think outside the box? The answer to the first question I ask it is telling. It couldn’t, and so simply gave me a normal and predictable answer. Then the conversation wanders off to unexpected and interesting areas. Carl [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>This is a back and forth coversation with AI to see what AI really knows. Can it think outside the box? The answer to the first question I ask it is telling. It couldn’t, and so simply gave me a normal and predictable answer. Then the conversation wanders off to unexpected and interesting areas.</p>
+					<description><![CDATA[This is a back and forth conversation with AI to see what AI really knows. Can it think outside the box? The answer to the first question I asked it is telling. It couldn’t, and simply gave me a normal and predictable answer. Then the conversation wandered off to unexpected and interesting areas. I felt [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>This is a back and forth conversation with AI to see what AI really knows. Can it think outside the box? The answer to the first question I asked it is telling. It couldn’t, and simply gave me a normal and predictable answer. Then the conversation wandered off to unexpected and interesting areas.</p>
+<p>I felt that perhaps the question I asked Claude AI was a little unfair.  So, at the end of this conversation, I asked  Claude AI, ChatGPT AI, and Gemini AI the same question but invited some deeper thinking on their part, and they did pretty well. Then finally, I uploaded the whole conversation until that point into a new chat with Claude AI and ChatGPT (Gemini choked on the length) and asked,  &#8220;What do you think of all this?&#8221;</p>
 <p><strong>Carl Says:</strong></p>
 <p>Would all life throughout the universe approach the task of living through a cup half empty lens, so to speak?</p>
 <p><strong>Claude AI Says:</strong></p>
