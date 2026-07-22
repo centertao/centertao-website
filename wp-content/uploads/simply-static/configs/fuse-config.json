@@ -1,1 +1,1 @@
-{"selector":".search-form","threshold":"","useExtendedSearch":false,"ignoreLocation":false,"maxResults":10,"weights":{"title":1,"content":1,"excerpt":1}}
+{"selector":".search-form","threshold":"","useExtendedSearch":false,"ignoreLocation":false,"maxResults":10,"weights":{"title":2,"content":1,"excerpt":1}}
